@@ -1,0 +1,23 @@
+{
+  "name": "i321",
+  "version": "1.0.0",
+  "description": "* Deyan Gabriel Tucev",
+  "homepage": "https://github.com/DeyanTucev/i321#readme",
+  "bugs": {
+    "url": "https://github.com/DeyanTucev/i321/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeyanTucev/i321.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
