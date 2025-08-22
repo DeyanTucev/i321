@@ -39,6 +39,12 @@ node app.js
 
 ---
 
+## ⛏️ Autres
+
+* mise en forme du README fait avec DeepSeek
+
+---
+
 <div align="center">
 <sub>💗Dépôt pour le cours I-321💗</sub>
 </div>
