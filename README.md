@@ -4,3 +4,7 @@
 
 * Deyan Gabriel Tucev
 
+## Dependances
+
+* Express.js
+* Node.js
