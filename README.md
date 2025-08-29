@@ -1,6 +1,50 @@
-# i321
+# 🚀 Projet I321
 
-## Collaborateurs 
+## 👥 Contributeurs
 
-* Deyan Gabriel Tucev
+**Deyan Tucev** - *Développeur principal*
 
+---
+
+## 📦 Dépendances
+
+| Technologie | Version minimale |
+|-------------|------------------|
+| **Express** | `v5.1.0+` |
+| **Node.js** | `v22.18.0` |
+| **Npm** | `v10.9.3` |
+
+---
+
+## 🛠️ Installation et configuration
+
+### Installation des dépendances
+
+```bash
+npm install
+```
+
+### Lancement de l'application
+
+```bash
+node app.js
+```
+
+---
+
+## 📞 Contact
+
+**Deyan Tucev**  
+📧 [deyan.tucev@eduvaud.ch](mailto:deyan.tucev@eduvaud.ch)
+
+---
+
+## ⛏️ Autres
+
+* mise en forme du README fait avec DeepSeek
+
+---
+
+<div align="center">
+<sub>💗Dépôt pour le cours I-321💗</sub>
+</div>
